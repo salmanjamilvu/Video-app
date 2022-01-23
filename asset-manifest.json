@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Video-app/static/css/main.4f1f98cf.chunk.css",
+    "main.js": "/Video-app/static/js/main.76eb2773.chunk.js",
+    "main.js.map": "/Video-app/static/js/main.76eb2773.chunk.js.map",
+    "runtime~main.js": "/Video-app/static/js/runtime~main.d65f8f52.js",
+    "runtime~main.js.map": "/Video-app/static/js/runtime~main.d65f8f52.js.map",
+    "static/css/2.57018c23.chunk.css": "/Video-app/static/css/2.57018c23.chunk.css",
+    "static/js/2.fb0a2960.chunk.js": "/Video-app/static/js/2.fb0a2960.chunk.js",
+    "static/js/2.fb0a2960.chunk.js.map": "/Video-app/static/js/2.fb0a2960.chunk.js.map",
+    "index.html": "/Video-app/index.html",
+    "precache-manifest.6d2e240e97f9e239844eeecd8ecb1ecd.js": "/Video-app/precache-manifest.6d2e240e97f9e239844eeecd8ecb1ecd.js",
+    "service-worker.js": "/Video-app/service-worker.js",
+    "static/css/2.57018c23.chunk.css.map": "/Video-app/static/css/2.57018c23.chunk.css.map",
+    "static/css/main.4f1f98cf.chunk.css.map": "/Video-app/static/css/main.4f1f98cf.chunk.css.map",
+    "static/media/index.css": "/Video-app/static/media/ag-index-background.2ab67eec.png",
+    "static/media/ag-logo.png": "/Video-app/static/media/ag-logo.c9b3e104.png",
+    "static/media/icons.css": "/Video-app/static/media/icons.efe053d4.ttf"
+  }
+}
